@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# Fast and Furious Franchise Overview
+# Fast and Furious Franchise
 
 ## Introduction
 
